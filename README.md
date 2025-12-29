@@ -44,16 +44,24 @@ unauthorized access.
 
 ---
 
-## Project Structure
 FUTURE_CS_03/
+│
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── File_Share_Secure_File_Sharing_System_Report.pdf
 ├── Security_Overview.docx
+├── .gitignore
+│
 ├── templates/
-│ └── upload.html
-├── screenshots/
-│ └── *.png
+│   └── upload.html
+│
+└── screenshots/
+    ├── upload_page.png
+    ├── upload_success.png
+    ├── encrypted_file.png
+    └── downloaded_file.png
+
 
 yaml
 Copy code
